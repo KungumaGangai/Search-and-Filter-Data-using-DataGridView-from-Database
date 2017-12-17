@@ -1,0 +1,9 @@
+E:\git projects\WF_DGV\WF_DGV\bin\Debug\WF_DGV.exe.config
+E:\git projects\WF_DGV\WF_DGV\bin\Debug\WF_DGV.exe
+E:\git projects\WF_DGV\WF_DGV\bin\Debug\WF_DGV.pdb
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.csprojResolveAssemblyReference.cache
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.MainForm.resources
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.Properties.Resources.resources
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.csproj.GenerateResource.Cache
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.exe
+E:\git projects\WF_DGV\WF_DGV\obj\Debug\WF_DGV.pdb
