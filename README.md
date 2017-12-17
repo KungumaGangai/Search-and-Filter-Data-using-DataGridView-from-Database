@@ -19,3 +19,5 @@ Sample Search Words
   # 3. DOWN Arrow Key
   DOWN Arrow Key is used to move DGV (both search and filter) focus/current cell downward means CurrentRow + 1.
   
+
+** Use the same keys to go back to previous rows and edit values
