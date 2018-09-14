@@ -1,7 +1,7 @@
 # Search-and-Filter-Data-using-DataGridView-from-Database
 This is a WinForm search tool where i have used two datagridview's one for search and another to filter data from database. 
 
-![dgv tool](dgv.gif)
+![dgv tool](dgv-search.gif)
 
 Download - WF_DGV.exe file to see how the tool works.
 Sample Search Words
